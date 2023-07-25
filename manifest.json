@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Password Manager",
+  "version": "1.0",
+  "description": "Autofills usernames and passwords.",
+  "permissions": ["tabs", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
